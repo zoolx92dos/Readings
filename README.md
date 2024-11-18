@@ -1,2 +1,2 @@
 # Readings
-Readings Completed or Ongoing
+Readings or Tutorials Completed or Ongoing
