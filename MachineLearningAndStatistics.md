@@ -24,3 +24,10 @@ Mishra, P. (2022). Practical explainable AI using python: Artificial intelligenc
 
 Reading 9: <br>
 Pan, Z., & Mishra, P. (2024). Explainable AI for Cybersecurity. Springer International Publishing AG. <br>
+
+Reading 10: <br>
+https://www.microsoft.com/en-us/research/blog/privacy-preserving-machine-learning-maintaining-confidentiality-and-preserving-trust/
+https://www.microsoft.com/en-us/research/group/privacy-preserving-machine-learning-innovation/
+https://www.alexandra.dk/wp-content/uploads/2020/10/Alexandra-Instituttet-whitepaper-Privacy-Preserving-Machine-Learning-A-Practical-Guide.pdf
+
+
