@@ -47,3 +47,6 @@ Richards, T. (2023). Streamlit for Data Science: Create interactive data apps in
 
 Reading 13: <br>
 https://aws.amazon.com/es/blogs/machine-learning/how-deloitte-italy-built-a-digital-payments-fraud-detection-solution-using-quantum-machine-learning-and-amazon-braket/ <br>
+
+Reading 14: <br>
+Parthasarathy, V. B., Zafar, A., Khan, A., & Shahid, A. (2024). The ultimate guide to fine-tuning llms from basics to breakthroughs: An exhaustive review of technologies, research, best practices, applied research challenges and opportunities. arXiv preprint arXiv:2408.13296. <br>
