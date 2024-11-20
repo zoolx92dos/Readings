@@ -4,7 +4,7 @@ Here's a compilation of lectures or tutorials that will be useful. <br>
 https://www.youtube.com/watch?v=ZxPV_KVq-tI <br>
 <br>
 
-// TODO (Complete by 20th Nov, 2024 Saturday) <br>
+// TODO (Complete by 24th Nov, 2024 Sunday) <br>
 
 1. Langchain Crash Course <br>
 https://www.youtube.com/watch?v=lG7Uxts9SXs <br>
@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=sVcwVQRHIc8&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D 
 
 4. RAG Fundamentals and Advanced Techniques <br>
 https://www.youtube.com/watch?v=ea2W8IogX80&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D <br>
+
+5. Vector Search RAG
+https://www.youtube.com/watch?v=JEBDfGqrAUA&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D
