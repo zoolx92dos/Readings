@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=ea2W8IogX80&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D 
 
 5. Vector Search RAG <br>
 https://www.youtube.com/watch?v=JEBDfGqrAUA&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D <br>
+
+6. Short Intro about Agents <br>
+https://www.youtube.com/watch?v=1AmLD1aY7cM <br>
