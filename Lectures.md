@@ -6,8 +6,9 @@ https://www.youtube.com/watch?v=ZxPV_KVq-tI <br>
 
 // TODO (Complete by 24th Nov, 2024 Sunday) <br>
 
-0. Langchain Cookbook <br>
+0. Langchain Cookbook | Beginner's Guide <br>
 https://www.youtube.com/watch?v=2xxziIWmaSA <br>
+https://www.youtube.com/watch?v=P3MAbZ2eMUI <br>
 
 1. Langchain Crash Course <br>
 https://www.youtube.com/watch?v=lG7Uxts9SXs <br>
