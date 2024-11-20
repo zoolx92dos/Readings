@@ -44,3 +44,6 @@ Masís, S. (2023). Interpretable Machine Learning with Python: Build explainable
 
 Reading 12: <br>
 Richards, T. (2023). Streamlit for Data Science: Create interactive data apps in Python. Packt Publishing Ltd. <br>
+
+Reading 13: <br>
+https://aws.amazon.com/es/blogs/machine-learning/how-deloitte-italy-built-a-digital-payments-fraud-detection-solution-using-quantum-machine-learning-and-amazon-braket/ <br>
