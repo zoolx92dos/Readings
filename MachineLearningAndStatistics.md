@@ -29,5 +29,10 @@ Reading 10: <br>
 https://www.microsoft.com/en-us/research/blog/privacy-preserving-machine-learning-maintaining-confidentiality-and-preserving-trust/
 https://www.microsoft.com/en-us/research/group/privacy-preserving-machine-learning-innovation/
 https://www.alexandra.dk/wp-content/uploads/2020/10/Alexandra-Instituttet-whitepaper-Privacy-Preserving-Machine-Learning-A-Practical-Guide.pdf
+<br>
+
+Reading 10: <br>
+Aravilli, S. R. (2024). PRIVACY-PRESERVING MACHINE LEARNING: a use-case-driven approach to develop and protecting ML pipelines from privacy and security threats. <br>
+
 
 
