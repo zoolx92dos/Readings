@@ -34,5 +34,8 @@ https://www.alexandra.dk/wp-content/uploads/2020/10/Alexandra-Instituttet-whitep
 Reading 10: <br>
 Aravilli, S. R. (2024). PRIVACY-PRESERVING MACHINE LEARNING: a use-case-driven approach to develop and protecting ML pipelines from privacy and security threats. <br>
 
+Reading 11: <br>
+Masís, S. (2023). Interpretable Machine Learning with Python: Build explainable, fair, and robust high-performance models with hands-on, real-world examples. Packt Publishing Ltd. <br>
 
-
+Reading 12: <br>
+Richards, T. (2023). Streamlit for Data Science: Create interactive data apps in Python. Packt Publishing Ltd. <br>
