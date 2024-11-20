@@ -18,5 +18,5 @@ https://www.youtube.com/watch?v=sVcwVQRHIc8&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D 
 4. RAG Fundamentals and Advanced Techniques <br>
 https://www.youtube.com/watch?v=ea2W8IogX80&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D <br>
 
-5. Vector Search RAG
-https://www.youtube.com/watch?v=JEBDfGqrAUA&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D
+5. Vector Search RAG <br>
+https://www.youtube.com/watch?v=JEBDfGqrAUA&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D <br>
