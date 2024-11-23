@@ -6,6 +6,7 @@ LLM Red Teaming <br>
     - Read this as well MITRE AI Red Teaming https://www.mitre.org/sites/default/files/2024-07/PR-24-01820-4-AI-Red-Teaming-Advancing-Safe-Secure-AI-Systems.pdf <br>
 5. OpenAI’s Approach to External Red Teaming for AI Models and Systems [Paper] <br>
 6. Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning [Paper] <br>
+7. Go through this page https://openai.com/safety/ <br>
 <br>
 
 Cyber <br>
