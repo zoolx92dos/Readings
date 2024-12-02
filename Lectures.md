@@ -28,26 +28,26 @@ https://www.youtube.com/watch?v=JEBDfGqrAUA&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D 
 6. Short Intro about Agents <br>
 https://www.youtube.com/watch?v=1AmLD1aY7cM <br>
 
-7. 70 Leetcode Problems
-https://www.youtube.com/watch?v=lvO88XxNAzs&t=1808s
+7. 70 Leetcode Problems <br>
+https://www.youtube.com/watch?v=lvO88XxNAzs&t=1808s <br>
 
-8. Langchain for beginners
-https://www.youtube.com/watch?v=yF9kGESAi3M
+8. Langchain for beginners <br>
+https://www.youtube.com/watch?v=yF9kGESAi3M <br>
 
-9. Leetcode 1 approach
-https://www.youtube.com/watch?v=RYT08CaYq6A
+9. Leetcode 1 approach <br>
+https://www.youtube.com/watch?v=RYT08CaYq6A <br>
+ 
+10. Leetcode 2 approach <br>
+https://www.youtube.com/watch?v=eB7SMsE6qEc <br>
 
-10. Leetcode 2 approach
-https://www.youtube.com/watch?v=eB7SMsE6qEc
+11. Learn RAG from Scratch <br>
+https://www.youtube.com/watch?v=sVcwVQRHIc8 <br>
 
-11. Learn RAG from Scratch
-https://www.youtube.com/watch?v=sVcwVQRHIc8
+12. ML with Python (Part 1) <br>
+https://www.youtube.com/watch?v=LvC68w9JS4Y <br>
 
-12. ML with Python (Part 1)
-https://www.youtube.com/watch?v=LvC68w9JS4Y
+13. ML with Python (Part 2) <br>
+https://www.youtube.com/watch?v=--t2md5zF_0 <br>
 
-13. ML with Python (Part 2)
-https://www.youtube.com/watch?v=--t2md5zF_0
-
-14. MLOps
-https://www.youtube.com/watch?v=-dJPoLm_gtE&pp=ygUFTUxPcHM%3D
+14. MLOps <br>
+https://www.youtube.com/watch?v=-dJPoLm_gtE&pp=ygUFTUxPcHM%3D <br>
