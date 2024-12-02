@@ -4,7 +4,7 @@ Here's a compilation of lectures or tutorials that will be useful. <br>
 https://www.youtube.com/watch?v=ZxPV_KVq-tI <br>
 <br>
 
-// TODO (Complete by 24th Nov, 2024 Sunday) <br>
+Fundamentals to be covered
 
 0. Langchain Cookbook | Beginner's Guide <br>
 https://www.youtube.com/watch?v=2xxziIWmaSA <br>
@@ -27,3 +27,27 @@ https://www.youtube.com/watch?v=JEBDfGqrAUA&pp=ygUQUkFHIGZyZWVjb2RlY2FtcA%3D%3D 
 
 6. Short Intro about Agents <br>
 https://www.youtube.com/watch?v=1AmLD1aY7cM <br>
+
+7. 70 Leetcode Problems
+https://www.youtube.com/watch?v=lvO88XxNAzs&t=1808s
+
+8. Langchain for beginners
+https://www.youtube.com/watch?v=yF9kGESAi3M
+
+9. Leetcode 1 approach
+https://www.youtube.com/watch?v=RYT08CaYq6A
+
+10. Leetcode 2 approach
+https://www.youtube.com/watch?v=eB7SMsE6qEc
+
+11. Learn RAG from Scratch
+https://www.youtube.com/watch?v=sVcwVQRHIc8
+
+12. ML with Python (Part 1)
+https://www.youtube.com/watch?v=LvC68w9JS4Y
+
+13. ML with Python (Part 2)
+https://www.youtube.com/watch?v=--t2md5zF_0
+
+14. MLOps
+https://www.youtube.com/watch?v=-dJPoLm_gtE&pp=ygUFTUxPcHM%3D
