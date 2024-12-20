@@ -58,3 +58,4 @@ Things to follow and read for ML & AI <br>
 3. https://twimlai.com/about/ <br>
 4. https://blogs.nvidia.com/ai-podcast/ <br>
 5. https://soundcloud.com/nlp-highlights <br>
+6. https://news.mit.edu/topic/machine-learning <br>
