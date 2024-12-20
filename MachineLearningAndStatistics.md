@@ -50,3 +50,11 @@ https://aws.amazon.com/es/blogs/machine-learning/how-deloitte-italy-built-a-digi
 
 Reading 14: <br>
 Parthasarathy, V. B., Zafar, A., Khan, A., & Shahid, A. (2024). The ultimate guide to fine-tuning llms from basics to breakthroughs: An exhaustive review of technologies, research, best practices, applied research challenges and opportunities. arXiv preprint arXiv:2408.13296. <br>
+
+<br>
+Things to follow and read for ML & AI <br>
+1. https://www.iso.org/artificial-intelligence/machine-learning <br>
+2. https://dataskeptic.com/ <br>
+3. https://twimlai.com/about/ <br>
+4. https://blogs.nvidia.com/ai-podcast/ <br>
+5. https://soundcloud.com/nlp-highlights <br>
