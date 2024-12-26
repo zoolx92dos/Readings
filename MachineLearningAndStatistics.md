@@ -67,3 +67,7 @@ Things to follow and read for ML & AI <br>
 4. https://blogs.nvidia.com/ai-podcast/ <br>
 5. https://soundcloud.com/nlp-highlights <br>
 6. https://news.mit.edu/topic/machine-learning <br>
+
+<br>
+GPU Computing <br>
+Reading 1: Li, M., Bi, Z., Wang, T., Wen, Y., Niu, Q., Liu, J., ... & Liu, M. (2024). Deep learning and machine learning with gpgpu and cuda: Unlocking the power of parallel computing. arXiv preprint arXiv:2410.05686. <br>
