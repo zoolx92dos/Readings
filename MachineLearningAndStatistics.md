@@ -56,7 +56,8 @@ Federated Learning Books <br>
 Book 1: Federated Learning Unlocking the Power of Collaborative Intelligence <br>
 Book 2: Federated Learning with Python <br>
 Reading 1: https://www.datacamp.com/blog/federated-learning <br>
-Paper: Zhang, C., Xie, Y., Bai, H., Yu, B., Li, W., & Gao, Y. (2021). A survey on federated learning. Knowledge-Based Systems, 216, 106775. <br>
+Paper 1: Zhang, C., Xie, Y., Bai, H., Yu, B., Li, W., & Gao, Y. (2021). A survey on federated learning. Knowledge-Based Systems, 216, 106775. <br>
+Paper 2: Shenaj, D., Rizzoli, G., & Zanuttigh, P. (2023). Federated learning in computer vision. IEEE Access. <br>
 
 <br>
 Things to follow and read for ML & AI <br>
