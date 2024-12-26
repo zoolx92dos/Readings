@@ -36,20 +36,26 @@ https://www.microsoft.com/en-us/research/group/privacy-preserving-machine-learni
 https://www.alexandra.dk/wp-content/uploads/2020/10/Alexandra-Instituttet-whitepaper-Privacy-Preserving-Machine-Learning-A-Practical-Guide.pdf
 <br>
 
-Reading 10: <br>
+Reading 11: <br>
 Aravilli, S. R. (2024). PRIVACY-PRESERVING MACHINE LEARNING: a use-case-driven approach to develop and protecting ML pipelines from privacy and security threats. <br>
 
-Reading 11: <br>
+Reading 12: <br>
 Masís, S. (2023). Interpretable Machine Learning with Python: Build explainable, fair, and robust high-performance models with hands-on, real-world examples. Packt Publishing Ltd. <br>
 
-Reading 12: <br>
+Reading 13: <br>
 Richards, T. (2023). Streamlit for Data Science: Create interactive data apps in Python. Packt Publishing Ltd. <br>
 
-Reading 13: <br>
+Reading 14: <br>
 https://aws.amazon.com/es/blogs/machine-learning/how-deloitte-italy-built-a-digital-payments-fraud-detection-solution-using-quantum-machine-learning-and-amazon-braket/ <br>
 
-Reading 14: <br>
+Reading 15: <br>
 Parthasarathy, V. B., Zafar, A., Khan, A., & Shahid, A. (2024). The ultimate guide to fine-tuning llms from basics to breakthroughs: An exhaustive review of technologies, research, best practices, applied research challenges and opportunities. arXiv preprint arXiv:2408.13296. <br>
+
+Reading 15: <br>
+Federated Learning Books <br>
+Book 1: Federated Learning Unlocking the Power of Collaborative Intelligence <br>
+Book 2: Federated Learning with Python <br>
+Reading 1: https://www.datacamp.com/blog/federated-learning <br>
 
 <br>
 Things to follow and read for ML & AI <br>
