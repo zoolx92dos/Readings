@@ -76,3 +76,6 @@ Reading 1: Li, M., Bi, Z., Wang, T., Wen, Y., Niu, Q., Liu, J., ... & Liu, M. (2
 Liquid Neural Networks <br>
 K. Kumar, A. Verma, N. Gupta and A. Yadav, "Liquid Neural Networks: A Novel Approach to Dynamic Information Processing," 2023 International Conference on Advances in Computation, Communication and Information Technology (ICAICCIT), Faridabad, India, 2023, pp. 725-730, doi: 10.1109/ICAICCIT60255.2023.10466162. keywords: {Training;Liquids;Neural networks;Supervised learning;Speech recognition;Reinforcement learning;Reservoirs;Neural Network Architecture;Liquid Layer;Temporal Dependencies;Time-Series Forecasting;Natural Language Processing;Reservoir Dynamics;Training Techniques}, <br>
 <br>
+
+Uncertainity Quantification in LLMs <br>
+Paper 1: Liu, L., Pan, Y., Li, X., & Chen, G. (2024). Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach. arXiv preprint arXiv:2404.15993. <br>
