@@ -80,3 +80,6 @@ K. Kumar, A. Verma, N. Gupta and A. Yadav, "Liquid Neural Networks: A Novel Appr
 
 Uncertainity Quantification in LLMs <br>
 Paper 1: Liu, L., Pan, Y., Li, X., & Chen, G. (2024). Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach. arXiv preprint arXiv:2404.15993. <br>
+
+Data Mining <br>
+Data Mining with Python: Theory, Application, and Case Studies <br>
