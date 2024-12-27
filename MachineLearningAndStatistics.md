@@ -60,13 +60,14 @@ Paper 1: Zhang, C., Xie, Y., Bai, H., Yu, B., Li, W., & Gao, Y. (2021). A survey
 Paper 2: Shenaj, D., Rizzoli, G., & Zanuttigh, P. (2023). Federated learning in computer vision. IEEE Access. <br>
 
 <br>
-Things to follow and read for ML & AI <br>
+Things to follow and read for ML, AI and Maths <br>
 1. https://www.iso.org/artificial-intelligence/machine-learning <br>
 2. https://dataskeptic.com/ <br>
 3. https://twimlai.com/about/ <br>
 4. https://blogs.nvidia.com/ai-podcast/ <br>
 5. https://soundcloud.com/nlp-highlights <br>
 6. https://news.mit.edu/topic/machine-learning <br>
+7. https://www.quantamagazine.org/mathematics/ <br>
 
 <br>
 GPU Computing <br>
