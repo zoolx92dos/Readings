@@ -83,3 +83,12 @@ Paper 1: Liu, L., Pan, Y., Li, X., & Chen, G. (2024). Uncertainty Estimation and
 
 Data Mining <br>
 Data Mining with Python: Theory, Application, and Case Studies <br>
+
+AI Roadmap
+1. Programming in Python3: A Complete Introduction to the Python Language (Mark Summerfield)
+2. Kaganovskiy, L. (2025). Applied Statistics with Python: Volume I: Introductory Statistics and Regression. CRC Press.
+3. Introduction To Statistical Learning With Python
+4. Pytorch https://www.youtube.com/watch?v=V_xro1bcAuA&pp=ygUScHl0b3JjaCBmdWxsIHZpZGVv
+5. Core Foundations - Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models
+https://web.stanford.edu/~jurafsky/slp3/
+6. Python for Natural Language Processing - Pierre M. Nugues
