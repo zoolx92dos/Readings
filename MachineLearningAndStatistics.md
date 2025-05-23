@@ -89,6 +89,8 @@ AI Roadmap
 2. Kaganovskiy, L. (2025). Applied Statistics with Python: Volume I: Introductory Statistics and Regression. CRC Press.
 3. Introduction To Statistical Learning With Python
 4. Pytorch https://www.youtube.com/watch?v=V_xro1bcAuA&pp=ygUScHl0b3JjaCBmdWxsIHZpZGVv
-5. Core Foundations - Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models
+5. Reinforcement Learning - Adaptive Computation and Machine Learning
+Sutton, R. S., & Barto, A. G. (1998). Reinforcement learning: An introduction (Vol. 1, No. 1, pp. 9-11). Cambridge: MIT press.
+6. Core Foundations - Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models
 https://web.stanford.edu/~jurafsky/slp3/
-6. Python for Natural Language Processing - Pierre M. Nugues
+7. Python for Natural Language Processing - Pierre M. Nugues
