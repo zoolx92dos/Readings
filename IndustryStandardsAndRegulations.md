@@ -112,3 +112,6 @@ Some of the terms:
 
 MIT AI Risk Repository
 https://airisk.mit.edu/
+
+EU Artificial Intelligence Act
+https://artificialintelligenceact.eu/
