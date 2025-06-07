@@ -105,3 +105,8 @@ Sutton, R. S., & Barto, A. G. (1998). Reinforcement learning: An introduction (V
 6. Core Foundations - Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models
 https://web.stanford.edu/~jurafsky/slp3/
 7. Python for Natural Language Processing - Pierre M. Nugues
+
+<br>
+Necessary Calculus <br>
+1. Strang, G. (2022). Introduction to linear algebra. Wellesley-Cambridge Press. <br>
+2. Calculus I: Differentiation and Integration, Dan Hamilton. <br>
