@@ -115,3 +115,6 @@ https://airisk.mit.edu/
 
 EU Artificial Intelligence Act
 https://artificialintelligenceact.eu/
+
+Activating AI Safety Level 3 Protections
+https://www.anthropic.com/news/activating-asl3-protections
