@@ -98,6 +98,9 @@ https://arxiv.org/abs/2301.08028 <br>
 Unsolth's AI Engineer's Worlds Fair 2025 Workshop <br>
 https://docs.unsloth.ai/ai-engineers-2025 <br>
 
+LlamaFirewall: An open source guardrail system for building secure AI agents <br>
+https://ai.meta.com/research/publications/llamafirewall-an-open-source-guardrail-system-for-building-secure-ai-agents/ <br>
+
 AI Roadmap
 1. Programming in Python3: A Complete Introduction to the Python Language (Mark Summerfield)
 2. Kaganovskiy, L. (2025). Applied Statistics with Python: Volume I: Introductory Statistics and Regression. CRC Press.
