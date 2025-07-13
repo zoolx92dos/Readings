@@ -118,3 +118,6 @@ https://artificialintelligenceact.eu/
 
 Activating AI Safety Level 3 Protections
 https://www.anthropic.com/news/activating-asl3-protections
+
+AI Use Cases
+https://cset.georgetown.edu/publication/xiamen-government-ai-use-cases/
